@@ -131,11 +131,6 @@ This script trains a neural network regression model on genomic data.
 
 ## Author
 
-Your Name
+David Mandia 
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
-
-This README.md file provides an overview of all three scripts, including their usage instructions, dependencies, and script details. Adjust the placeholders (like `Alignment-HitTable.csv`, `genomic_sequences.fasta`, and `Your Name`) with actual values according to your project.
