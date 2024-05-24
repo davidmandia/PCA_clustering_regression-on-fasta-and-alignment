@@ -1,4 +1,3 @@
-Certainly! Here's a combined README.md file that includes the information from all three scripts:
 
 ```markdown
 # Genomic Analysis Scripts
